@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tourism-recommendation-service", "tourism-recommendation-service\tourism-recommendation-service.csproj", "{D02059F2-8886-4E3E-AD04-F7527936BBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tourism-recommendation-service.tests", "tourism-recommendation-service.tests\tourism-recommendation-service.tests.csproj", "{68D70332-5185-4D9F-9462-1A1A72FAE4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D02059F2-8886-4E3E-AD04-F7527936BBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02059F2-8886-4E3E-AD04-F7527936BBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02059F2-8886-4E3E-AD04-F7527936BBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02059F2-8886-4E3E-AD04-F7527936BBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D70332-5185-4D9F-9462-1A1A72FAE4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D70332-5185-4D9F-9462-1A1A72FAE4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D70332-5185-4D9F-9462-1A1A72FAE4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D70332-5185-4D9F-9462-1A1A72FAE4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
